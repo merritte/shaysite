@@ -1,0 +1,1 @@
+web: gunicorn shaysite.wgsi --log-file -
